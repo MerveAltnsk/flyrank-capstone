@@ -23,3 +23,7 @@ The project will be built throughout the internship while applying AI-assisted s
 ## Status
 
 Project setup in progress.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
