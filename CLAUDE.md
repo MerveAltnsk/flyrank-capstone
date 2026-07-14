@@ -34,3 +34,10 @@ When suggesting code changes:
 - Prefer simple and maintainable solutions.
 - Preserve existing project structure unless improvement is necessary.
 - Follow the coding standards defined above.
+
+## Project Rules
+
+- Forms must use reusable React components.
+- All user input must include client-side validation.
+- Every form field must have an associated label for accessibility.
+- Avoid adding features that are not explicitly requested.
